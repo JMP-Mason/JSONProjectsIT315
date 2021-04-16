@@ -1,0 +1,71 @@
+{
+	"HikingTrails":
+	[
+		{
+		"TrailName": "Bull Run Trail", 
+		"TrailDescription": "Bull Run Trail is a 17.4 mile heavily trafficked point-to-point trail located near Manassas, Virginia that features a river and is good for all skill levels. The trail is primarily used for hiking, running, nature trips, and horses and is accessible year-round. Dogs and horses are also able to use this trail.", 
+		"TrailLength": "5.1",
+		"TrailElevation": "1000",
+		"TrailTime": "4:50",
+		"TrailImage": "https://raw.githubusercontent.com/JMP-Mason/JSONProjectsIT315/master/bullrun.jpg",
+		"TrailSite": "https://www.alltrails.com/trail/us/virginia/bull-run-trail",
+		"TrailDifficulty": "Easy"
+		},
+		
+		{
+		"TrailName": "White Oak Trail", 
+		"TrailDescription": "White Oak Canyon Trail is a 9.5 mile heavily trafficked out and back trail located near Syria, Virginia that features a waterfall and is rated as difficult. The trail offers a number of activity options and is best used from March until November. Dogs are also able to use this trail but must be kept on leash.", 
+		"TrailLength": "7.1",
+		"TrailElevation": "3000",
+		"TrailTime": "1:50",
+		"TrailImage": "https://raw.githubusercontent.com/JMP-Mason/JSONProjectsIT315/master/White_Oak.jpg",
+		"TrailSite": "https://www.alltrails.com/trail/us/virginia/white-oak-canyon-trail",
+		"TrailDifficulty": "Hard"
+		},
+		
+		{
+		"TrailName": "W&OD Trail", 
+		"TrailDescription": "Often called the skinniest park in Virginia, Washington & Old Dominion (W&OD) Railroad Regional Park is a paved trail between Shirlington and Purcellville, Virginia. Run, cycle or skate the 45-mile route along the former roadbed of the Washington & Old Dominion Railroad, which runs through the urban heartland and into the Virginia countryside. Equestrians can ride the adjacent 32-mile gravel horse trail. The W&OD trail has multiple parking areas, enabling you to jump on and off the trail at various points.",
+		"TrailLength": "9.1",
+		"TrailElevation": "700",
+		"TrailTime": "00:50",
+		"TrailImage": "https://raw.githubusercontent.com/JMP-Mason/JSONProjectsIT315/master/waodtrail.jpg",
+		"TrailSite": "https://www.novaparks.com/parks/washington-and-old-dominion-railroad-regional-park",
+		"TrailDifficulty": "Easy"
+		},
+		
+		{
+		"TrailName": "Cub Run Trail", 
+		"TrailDescription": "Cub Run Stream Valley Trail is a 6.6 mile moderately trafficked loop trail located near Centreville, Virginia that offers the chance to see wildlife and is good for all skill levels. The trail offers a number of activity options and is best used from March until October. Dogs are also able to use this trail but must be kept on leash.", 
+		"TrailLength": "5.1",
+		"TrailElevation": "5000",
+		"TrailTime": "7:50",
+		"TrailImage": "https://raw.githubusercontent.com/JMP-Mason/JSONProjectsIT315/master/cubruntrail.jpg",
+		"TrailSite": "https://www.alltrails.com/trail/us/virginia/cub-run-stream-valley-trail",
+		"TrailDifficulty": "Easy"
+		},
+		
+		{
+		"TrailName": "Matildaville Trail", 
+		"TrailDescription": "Matildaville Trail is a 1.7 mile heavily trafficked out and back trail located near McLean, Virginia that features a waterfall and is good for all skill levels. The trail is primarily used for hiking, walking, and nature trips and is best used from March until October. Dogs are also able to use this trail.", 
+		"TrailLength": "7.1",
+		"TrailElevation": "300",
+		"TrailTime": "00:30",
+		"TrailImage": "https://raw.githubusercontent.com/JMP-Mason/JSONProjectsIT315/master/matildavilletrail.jpg",
+		"TrailSite": "https://www.alltrails.com/trail/us/virginia/matildaville-trail",
+		"TrailDifficulty": "Easy"
+		},
+		
+		{
+		"TrailName": "Potomac-Heritage Trail", 
+		"TrailDescription": "Potomac Heritage Trail is a 19.2 mile moderately trafficked out and back trail located near Arlington County, Virginia that features a river and is rated as moderate. The trail offers a number of activity options and is accessible year-round. Dogs are also able to use this trail but must be kept on leash.", 
+		"TrailLength": "9.1",
+		"TrailElevation": "1673",
+		"TrailTime": "3:15",
+		"TrailImage": "https://raw.githubusercontent.com/JMP-Mason/JSONProjectsIT315/master/potomactrail.jpg",
+		"TrailSite": "https://www.alltrails.com/trail/us/virginia/potomac-heritage-trail--2",
+		"TrailDifficulty": "Moderate"
+		}
+	
+	]
+}
